@@ -1,0 +1,5 @@
+pymongo>=4.7
+nltk
+sentence-transformers
+ollama
+python-dotenv
